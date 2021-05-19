@@ -1,0 +1,32 @@
+#seccion2{
+    height: 90vh;
+    max-width: 100vw;
+    padding: 1rem 5rem;
+    background-color: #023047;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-1{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title-2{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title-3{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4rem;
+}
+
+.fas{
+    color: #ffffff;
+    font-size: 2rem;
+}

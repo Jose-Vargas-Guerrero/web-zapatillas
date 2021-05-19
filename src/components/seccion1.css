@@ -1,0 +1,26 @@
+#seccion-1{
+    height: 70vh;
+    max-width: 100vw;
+}
+
+#col-img{
+    height: 70vh;
+    background-image: url(./images//zapatillas2.jpg);
+    background-position: left;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#title-col{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.title1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.8rem;
+    color: #023047;
+}

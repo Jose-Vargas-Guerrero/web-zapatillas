@@ -1,0 +1,8 @@
+#navbar-container{
+    max-width: 100vw;
+    background-color: #ffc300;
+    position: fixed;
+    z-index: 1;
+
+    font-family: 'Open Sans', sans-serif;
+}
