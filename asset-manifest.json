@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/css/main.fc211e18.chunk.css",
+    "main.js": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/main.dc7c0b8f.chunk.js",
+    "main.js.map": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/main.dc7c0b8f.chunk.js.map",
+    "runtime-main.js": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/runtime-main.ef2ecb55.js",
+    "runtime-main.js.map": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/runtime-main.ef2ecb55.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.b330fa0b.chunk.js": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/2.b330fa0b.chunk.js",
+    "static/js/2.b330fa0b.chunk.js.map": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/2.b330fa0b.chunk.js.map",
+    "static/js/3.ce47c745.chunk.js": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/3.ce47c745.chunk.js",
+    "static/js/3.ce47c745.chunk.js.map": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/3.ce47c745.chunk.js.map",
+    "index.html": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.fc211e18.chunk.css.map": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/css/main.fc211e18.chunk.css.map",
+    "static/js/2.b330fa0b.chunk.js.LICENSE.txt": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/js/2.b330fa0b.chunk.js.LICENSE.txt",
+    "static/media/seccion3.css": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/media/fondo.4f509880.jpg",
+    "static/media/zapatillas1-2.dae89756.jpg": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/media/zapatillas1-2.dae89756.jpg",
+    "static/media/zapatillas1-3.dec39ef8.jpg": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/media/zapatillas1-3.dec39ef8.jpg",
+    "static/media/zapatillas1-4.a92cf7e8.jpg": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/media/zapatillas1-4.a92cf7e8.jpg",
+    "static/media/zapatillas1.6c2fd4f3.jpg": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/media/zapatillas1.6c2fd4f3.jpg",
+    "static/media/seccion1.css": "/http//Jose-Vargas-Guerrero.github.io/web-zapatillas/static/media/zapatillas2.49cf99fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef2ecb55.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.b330fa0b.chunk.js",
+    "static/css/main.fc211e18.chunk.css",
+    "static/js/main.dc7c0b8f.chunk.js"
+  ]
+}
